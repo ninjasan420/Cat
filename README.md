@@ -1,5 +1,3 @@
-# [Join my Discord](https://discord.com/invite/rErSSHT "Join my Discord")
-
 # Cat
  a cat in your terminal :3
 
